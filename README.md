@@ -2,8 +2,7 @@
 
 A small, classic Snake game written in Python using the standard turtle module. This repository contains a simple, single-player implementation with score tracking and persistence to a local file.
 
-<img src="<img width="599" height="626" alt="image" src="https://github.com/user-attachments/assets/ab5f005c-9420-47b8-92ac-4e81f2d03ee5" />
-" alt="Snake game screenshot">
+<img width="599" height="626" alt="image" src="https://github.com/user-attachments/assets/ab5f005c-9420-47b8-92ac-4e81f2d03ee5" />
 
 ## Table of Contents
 - [Preview](#preview)
